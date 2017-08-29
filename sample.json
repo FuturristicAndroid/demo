@@ -1,0 +1,64 @@
+{
+    "medicines": [
+        {
+            "name": "Lipitor",
+            "generic_name": "Atorvastatin Calcium",
+            "img_url": "www.google.com",
+            "description": "abc123"
+        },
+        {
+            "name": "Synthroid",
+            "generic_name": "Levothyroxine",
+            "img_url": "www.google.com",
+            "description": "abc123"
+        },
+        {
+            "name": "Prinivil",
+            "generic_name": "Lisinopril",
+            "img_url": "www.google.com",
+            "description": "abc123"
+        },
+        {
+            "name": "Prilosec",
+            "generic_name": "Omeprazole",
+            "img_url": "www.google.com",
+            "description": "abc123"
+        },
+        {
+            "name": "Glucophage",
+            "generic_name": "Metformin",
+            "img_url": "www.google.com",
+            "description": "abc123"
+        },
+        {
+            "name": "Norvasc",
+            "generic_name": "Amlodipine",
+            "img_url": "www.google.com",
+            "description": "abc123"
+        },
+        {
+            "name": "Zocor",
+            "generic_name": "Simvastatin",
+            "img_url": "www.google.com",
+            "description": "abc123"
+        },
+        {
+            "name": "Lortab",
+            "generic_name": "Hydrocodone/Acetaminophen",
+            "img_url": "www.google.com",
+            "description": "abc123"
+        },
+        {
+            "name": "Toprol XL",
+            "generic_name": "Metoprolol ER",
+            "img_url": "www.google.com",
+            "description": "abc123"
+        },
+        {
+            "name": "Cozaar",
+            "generic_name": "Losartan",
+            "img_url": "www.google.com",
+            "description": "abc123"
+        }
+    ]
+}
