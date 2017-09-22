@@ -3,62 +3,62 @@
         {
             "name": "Lipitor",
             "generic_name": "Atorvastatin Calcium",
-            "img_url": "www.google.com",
-            "description": "abc123"
+            "img_url": "https://www.rxstars.net/wp-content/uploads/2015/01/Lipitor-Review.png",
+            "description": "description not available yet"
         },
         {
             "name": "Synthroid",
             "generic_name": "Levothyroxine",
-            "img_url": "www.google.com",
-            "description": "abc123"
+            "img_url": "http://drugsdetails.com/wp-content/uploads/2016/05/synthroid-tablet-kamagra-100mg-tablet-kk-healthcare.jpg",
+            "description": "description not available yet"
         },
         {
             "name": "Prinivil",
             "generic_name": "Lisinopril",
-            "img_url": "www.google.com",
-            "description": "abc123"
+            "img_url": "http://www.superensucasa.com/superc/img_art/7501326000475_3.jpg",
+            "description": "description not available yet"
         },
         {
             "name": "Prilosec",
             "generic_name": "Omeprazole",
-            "img_url": "www.google.com",
-            "description": "abc123"
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71JM0ZHbXBL._SX355_.jpg",
+            "description": "description not available yet"
         },
         {
             "name": "Glucophage",
             "generic_name": "Metformin",
-            "img_url": "www.google.com",
-            "description": "abc123"
+            "img_url": "https://fertility-fertility2ultd.netdna-ssl.com/media/catalog/product/cache/1/image/512x512/9df78eab33525d08d6e5fb8d27136e95/g/l/glucophage_sr_750mg_1_2.jpg",
+            "description": "description not available yet"
         },
         {
             "name": "Norvasc",
             "generic_name": "Amlodipine",
-            "img_url": "www.google.com",
-            "description": "abc123"
+            "img_url": "https://canadian-pharmacy24-7.com/wp-content/uploads/ngg_featured/norvasc184504.jpg",
+            "description": "description not available yet"
         },
         {
             "name": "Zocor",
             "generic_name": "Simvastatin",
-            "img_url": "www.google.com",
-            "description": "abc123"
+            "img_url": "https://www.yourlawyer.com/wp-content/uploads/2017/01/zocor.jpg",
+            "description": "description not available yet"
         },
         {
             "name": "Lortab",
             "generic_name": "Hydrocodone/Acetaminophen",
-            "img_url": "www.google.com",
-            "description": "abc123"
+            "img_url": "http://www.pandapharmacy.com/wp-content/uploads/2015/03/Hydrocodone-lortab.jpg",
+            "description": "description not available yet"
         },
         {
             "name": "Toprol XL",
             "generic_name": "Metoprolol ER",
-            "img_url": "www.google.com",
-            "description": "abc123"
+            "img_url": "",
+            "description": "description not available yet"
         },
         {
             "name": "Cozaar",
             "generic_name": "Losartan",
-            "img_url": "www.google.com",
-            "description": "abc123"
+            "img_url": "",
+            "description": "description not available yet"
         }
     ]
 }
